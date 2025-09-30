@@ -1,0 +1,25 @@
+// Day - 17 : Fetch API and Error Handling
+
+// Activity 1 : Basic Fetch
+// Task1> Use fetch() to get data from a public API (like JSONPlaceholder) and log the response.
+// Task2> Extract JSON data from the response and log it to the console.
+
+
+// Activity 2 : Handling Errors
+// Task3> Use fetch() with a wrong URL and handle the error using .catch().
+// Task4> Implement error handling in an async/await function using try...catch.
+
+
+// Activity 3 : Using Fetch with Async/Await
+// Task5> Write an async function that fetches data from an API and logs the data.
+// Task6> Handle errors in the async function using try...catch and log a custom error message.
+
+
+// Activity 4 : Sending Data using Fetch
+// Task7> Use fetch() to send a POST request with a JSON body to an API endpoint (like JSONPlaceholder). Log the response.
+
+
+// Activity 5 : Practical Application
+// Task8> Create a function that fetches a list of posts from JSONPlaceholder API and logs only the first 5 titles.
+// Task9> Create a function that fetches user data and posts in parallel using Promise.all and logs the results.
+// Task10> Create a function that retries a fetch request up to 3 times if it fails, then logs success or final error.
