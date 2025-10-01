@@ -1,0 +1,25 @@
+// Day - 18 : Async Iterators and Generators
+
+// Activity 1 : Generators
+// Task1> Write a generator function that yields numbers from 1 to 5 and log each value.
+// Task2> Create a generator function that takes an array as input and yields each element one by one.
+
+
+// Activity 2 : Iterating Generators
+// Task3> Use a for...of loop to iterate over the generator from Task 1 and log each value.
+// Task4> Create a generator that yields an infinite sequence of even numbers and use it to log the first 5 values.
+
+
+// Activity 3 : Async Generators
+// Task5> Write an async generator function that yields promises resolving after 1 second (simulate async data stream).
+// Task6> Use a for-await-of loop to consume the async generator from Task 5 and log each resolved value.
+
+
+// Activity 4 : Practical Generator Usage
+// Task7> Create a generator that yields values from an API call one page at a time (simulate paginated data).
+// Task8> Use the generator from Task 7 to fetch and log data for 3 pages.
+
+
+// Activity 5 : Combining Generators and Async
+// Task9> Write an async generator that yields chunks of data (simulate reading a large file in parts).
+// Task10> Consume the async generator from Task 9 and log each chunk until the entire "file" is read.
