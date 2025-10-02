@@ -1,0 +1,25 @@
+// Day - 19 : ES6 Modules
+
+// Activity 1 : Creating and Exporting Modules
+// Task1> Create a module that exports a function to add two numbers.
+// Task2> Create a module that exports an object representing a person with name and age properties.
+
+
+// Activity 2 : Importing Modules
+// Task3> Import the add function from Task 1’s module and use it to add two numbers.
+// Task4> Import the person object from Task 2’s module and log the person’s details.
+
+
+// Activity 3 : Default Exports
+// Task5> Create a module that exports a default function which returns the current date and time.
+// Task6> Import the default function from Task 5’s module and log the result.
+
+
+// Activity 4 : Named Exports
+// Task7> Create a module that exports multiple functions (e.g., add, subtract, multiply, divide).
+// Task8> Import only the multiply and divide functions from Task 7’s module and use them.
+
+
+// Activity 5 : Practical Use Case
+// Task9> Create a module that exports a class representing a Car with properties like make, model, and year, and a method to display details.
+// Task10> Import the Car class from Task 9’s module, create an instance, and call the method to display the car’s details.
