@@ -1,0 +1,21 @@
+// Day - 21 : Classes
+
+// Activity 1 : Class Definition
+// Task1> Define a class representing a person with properties name and age, and a method to return a greeting message.
+// Task2> Create an instance of the Person class and log the greeting message.
+
+// Activity 2 : Class Inheritance
+// Task3> Define a class representing a student that extends the Person class, add a property studentId, and a method to return the student’s details.
+// Task4> Create an instance of the Student class and log the student’s details.
+
+// Activity 3 : Static Methods
+// Task5> Add a static method to the Person class that returns a generic greeting message.
+// Task6> Call the static method without creating an instance of the class and log the message.
+
+// Activity 4 : Getters and Setters
+// Task7> Add a getter method to the Person class to return the full details of the person.
+// Task8> Add a setter method to the Person class to update the name property.
+
+// Activity 5 : Class Expressions and Anonymous Classes
+// Task9> Create a class expression for a Car class with properties make and model, and a method to return the car’s details.
+// Task10> Create an instance of the Car class and log the car’s details.
