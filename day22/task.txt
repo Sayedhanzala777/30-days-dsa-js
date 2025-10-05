@@ -1,0 +1,19 @@
+// Day - 22 : Error Handling
+
+// Activity 1 : Basic Error Handling with Try-Catch
+// Task1> Write a function that intentionally throws an error and use try-catch to handle it.
+// Task2> Create a function that divides two numbers and throws an error if the denominator is zero. Handle the error using try-catch.
+
+// Activity 2 : Finally Block
+// Task3> Write a script that includes a try-catch-finally block. Log messages in each block to observe the execution flow.
+
+// Activity 3 : Custom Error Objects
+// Task4> Create a custom error class that extends the built-in Error class. Throw and catch a custom error in a function.
+
+// Activity 4 : Error Handling in Promises
+// Task5> Write a function that returns a promise that rejects with an error. Handle the error using .catch().
+// Task6> Use try-catch within an async function to handle errors from a promise that may reject.
+
+// Activity 5 : Graceful Error Handling
+// Task7> Write a program that attempts to parse an invalid JSON string and handles the error gracefully.
+// Task8> Create a function that fetches data from an invalid URL using fetch and handles the error gracefully.
