@@ -1,0 +1,18 @@
+// Day - 23 : Modules
+
+// Activity 1 : Creating and Exporting Modules
+// Task1> Create a module that exports a function to add two numbers. Import and use this module in another file.
+// Task2> Create a module that exports an object representing a person with properties and a method. Import and use this module in another file.
+
+// Activity 2 : Named and Default Exports
+// Task3> Create a module that exports multiple functions using named exports. Import and use them in another file.
+// Task4> Create a module that exports a single function using default export. Import and use it in another file.
+
+// Activity 3 : Importing Entire Modules
+// Task5> Create a module with multiple functions and export them. Import the entire module as an object and use its functions.
+
+// Activity 4 : Combining Import and Export
+// Task6> Create two modules, one exporting a function and another importing and re-exporting it. Use the re-exported function in a main file.
+
+// Activity 5 : Practical Use of Modules
+// Task7> Create a math utility module that includes functions for addition, subtraction, multiplication, and division. Import and use these functions in a script.
