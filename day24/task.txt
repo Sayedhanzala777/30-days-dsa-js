@@ -1,0 +1,20 @@
+// Day - 24 : Promises and Async/Await
+
+// Activity 1 : Understanding Promises
+// Task1> Create a promise that resolves with a message after 2 seconds and log the message.
+// Task2> Create a promise that rejects with an error message after 2 seconds and handle the error using .catch().
+
+// Activity 2 : Chaining Promises
+// Task3> Create a sequence of promises that simulate fetching data from three sources (use setTimeout). Chain them together and log results in order.
+
+// Activity 3 : Using Async/Await
+// Task4> Write an async function that waits for a promise to resolve and logs the resolved value.
+// Task5> Write an async function that handles a rejected promise using try-catch.
+
+// Activity 4 : Fetching Data from API (Simulated or Real)
+// Task6> Use fetch() to get data from a public API (like JSONPlaceholder) and log the result using async/await.
+// Task7> Handle errors that occur during the fetch call using try-catch.
+
+// Activity 5 : Promise Combinators
+// Task8> Use Promise.all() to wait for multiple promises to resolve and log all results.
+// Task9> Use Promise.race() to log the result of the fastest promise among multiple promises.
