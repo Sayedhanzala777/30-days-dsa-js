@@ -1,0 +1,31 @@
+// Day - 25 : Classes and Objects
+
+// -------------------------
+// Activity 1 : Creating a Class
+// -------------------------
+
+// Task 1> Create a class called Person with properties like name, age, and country. Create an object of this class and log the properties.
+
+// -------------------------
+// Activity 2 : Class Methods
+// -------------------------
+
+// Task 2> Add a method to the Person class that returns a string introducing the person (for example: "Hi, I’m John from India and I’m 25 years old.")
+
+// -------------------------
+// Activity 3 : Class Constructor
+// -------------------------
+
+// Task 3> Add a constructor to the Person class that initializes the object properties (name, age, country).
+
+// -------------------------
+// Activity 4 : Inheritance
+// -------------------------
+
+// Task 4> Create a subclass called Student that extends Person and adds a new property studentId. Add a method getStudentInfo() that returns the student’s full details.
+
+// -------------------------
+// Activity 5 : Method Overriding
+// -------------------------
+
+// Task 5> Override the introduce() method in the Student class to include the student’s ID.
