@@ -1,0 +1,39 @@
+// Day - 26 : Getters, Setters, and Static Methods
+
+// -------------------------
+// Activity 1 : Getters and Setters
+// -------------------------
+
+// Task 1> Create a class `Rectangle` with properties width and height. 
+// Add getter methods to calculate area and perimeter of the rectangle.
+// Task 2> Add setter methods to update the dimensions (width and height) 
+// with validation (e.g., only positive numbers allowed).
+
+// -------------------------
+// Activity 2 : Static Methods
+// -------------------------
+
+// Task 3> Create a class `MathHelper` with a static method `add(a, b)` 
+// that returns the sum of two numbers.
+// Task 4> Add another static method `multiply(a, b)` that returns the product of two numbers.
+
+// -------------------------
+// Activity 3 : Private Fields (Optional Advanced)
+// -------------------------
+
+// Task 5> Create a class `BankAccount` that uses a private field `#balance`.
+// Implement methods to deposit, withdraw, and getBalance (with validation that prevents negative withdrawals).
+
+// -------------------------
+// Activity 4 : Using Getters/Setters in Inheritance
+// -------------------------
+
+// Task 6> Create a base class `Person` with name and age properties (using getters/setters).
+// Create a subclass `Employee` that adds a salary property (with getter/setter for validation).
+
+// -------------------------
+// Activity 5 : Practical Application
+// -------------------------
+
+// Task 7> Create a class `Temperature` that stores temperature in Celsius.
+// Add getter to return Fahrenheit value, and setter to set temperature using Fahrenheit.
