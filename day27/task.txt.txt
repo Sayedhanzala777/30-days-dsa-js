@@ -1,0 +1,37 @@
+// Day - 27 : Asynchronous JavaScript - Callbacks
+
+// -------------------------
+// Activity 1 : Understanding Callbacks
+// -------------------------
+
+// Task 1> Write a function that takes a callback and calls it after a delay of 2 seconds using `setTimeout`.
+// Task 2> Create a function that takes two numbers and a callback. 
+// The callback should be used to return the result of adding the two numbers after 1 second.
+
+// -------------------------
+// Activity 2 : Callback Hell
+// -------------------------
+
+// Task 3> Create a sequence of nested callbacks (callback hell) that logs messages like:
+// “Task 1 complete”, “Task 2 complete”, “Task 3 complete”, each after 1 second delay.
+
+// -------------------------
+// Activity 3 : Handling Async Tasks with Callbacks
+// -------------------------
+
+// Task 4> Simulate fetching user data from a server using a callback. 
+// Use `setTimeout` to delay the response by 2 seconds and log the fetched data.
+
+// -------------------------
+// Activity 4 : Error Handling in Callbacks
+// -------------------------
+
+// Task 5> Modify Task 4 to include error handling in the callback (e.g., if data not found, log an error).
+
+// -------------------------
+// Activity 5 : Practical Example
+// -------------------------
+
+// Task 6> Create a function that simulates an async login system using callbacks. 
+// If username and password are correct (hardcode values), log “Login successful!”; 
+// otherwise, log “Invalid credentials!” after 2 seconds.
