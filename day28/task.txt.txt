@@ -1,0 +1,38 @@
+// Day - 28 : Promises
+
+// -------------------------
+// Activity 1 : Creating and Using Promises
+// -------------------------
+
+// Task 1> Create a promise that resolves after 2 seconds with a success message. Log the message when the promise resolves.
+// Task 2> Create a promise that rejects after 2 seconds with an error message. Handle the error using `.catch()`.
+
+// -------------------------
+// Activity 2 : Chaining Promises
+// -------------------------
+
+// Task 3> Create a series of promises that simulate sequential async operations 
+// (e.g., fetching user → fetching posts → fetching comments). Use `.then()` chaining to handle each step.
+
+// -------------------------
+// Activity 3 : Using Promise.all()
+// -------------------------
+
+// Task 4> Create three promises that resolve after different times (1s, 2s, 3s). 
+// Use `Promise.all()` to log a message when all have resolved.
+
+// -------------------------
+// Activity 4 : Using Promise.race()
+// -------------------------
+
+// Task 5> Create three promises that resolve after different times. 
+// Use `Promise.race()` to log the result of the first resolved promise.
+
+// -------------------------
+// Activity 5 : Practical Example
+// -------------------------
+
+// Task 6> Create a fake "API request" function that returns a promise. 
+// If a random number is even, resolve with "Data fetched successfully", 
+// otherwise reject with "Error fetching data". 
+// Handle both cases with `.then()` and `.catch()`.
