@@ -1,0 +1,76 @@
+---
+
+## ✅ Completed Days & Topics
+
+| Day | Topic / Problem | Concept Used |
+|-----|------------------|--------------|
+| 1 | Variables & Data Types | Basics of JS |
+| 2 | Functions & Parameters | Function Expressions |
+| 3 | Arrays & Loops | Iteration & Manipulation |
+| 4 | Objects | Key-Value Handling |
+| 5 | String Methods | Manipulation |
+| 6 | Math & Operators | Logical / Arithmetic |
+| 7 | Conditional Statements | If-Else / Switch |
+| 8 | Loops Practice | For / While |
+| 9 | Recursion | Base & Recursive Cases |
+| 10 | Callbacks | Functions as Arguments |
+| 11 | Higher Order Functions | Map, Filter, Reduce |
+| 12 | Array Methods Deep Dive | Chaining |
+| 13 | Object Destructuring | Modern JS |
+| 14 | Spread & Rest Operators | ES6 Syntax |
+| 15 | Closures | Scope & Lexical Environment |
+| 16 | Currying | Function Transformations |
+| 17 | Recursion Advanced | Nested Calls |
+| 18 | Arrow Functions | Cleaner Syntax |
+| 19 | Functions Practice | Logic Problems |
+| 20 | Arrays Practice | Sorting / Filtering |
+| 21 | Objects & Iteration | Keys / Values |
+| 22 | ES6 Concepts | Let, Const, Template Literals |
+| 23 | Modules | Import / Export |
+| 24 | Classes | OOP in JS |
+| 25 | Inheritance | extends / super |
+| 26 | Error Handling | Try / Catch |
+| 27 | Promises | Async JS |
+| 28 | Async / Await | Handling Async Code |
+| 29 | Fetch API | Data from API |
+| 30 | DOM Manipulation | Event Handling & Interactivity |
+
+---
+
+## 🧠 How to Use This Repo
+
+1. Open any day’s folder (e.g. `/day15/`)
+2. Read the `problem.md` to understand the challenge.
+3. Try solving it yourself first.
+4. Open `solution.js` to compare your logic and learn from it.
+5. (Optional) Read `approach.md` to understand reasoning and time complexity.
+
+---
+
+## 🏗️ Best Practices I Followed
+
+- Used **ES6+ syntax** — `let`, `const`, arrow functions.  
+- Added **comments** and **readable variable names**.  
+- Tracked **time & space complexity** for most problems.  
+- Focused on **clarity > cleverness** — readable, reusable code.  
+- Documented progress daily.
+
+---
+
+## 🛠️ How to Run Locally
+
+Make sure Node.js is installed, then:
+
+```bash
+# clone this repo
+git clone https://github.com/Sayedhanzala777/30-days-dsa-js.git
+
+# open project folder
+cd 30-days-dsa-js
+
+# go to any day folder
+cd day10
+
+# run the JS file
+node solution.js
+Added detailed README with all 30 days summary
