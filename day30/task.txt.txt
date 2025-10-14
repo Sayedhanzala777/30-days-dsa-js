@@ -1,0 +1,41 @@
+// Day - 30 : DOM Manipulation & Event Handling
+
+// -------------------------
+// Activity 1 : Selecting and Manipulating Elements
+// -------------------------
+
+// Task 1 > Select an HTML element by its ID and change its text content.
+
+// Task 2 > Select an HTML element by its class and change its background color.
+
+
+// -------------------------
+// Activity 2 : Creating and Appending Elements
+// -------------------------
+
+// Task 3 > Create a new div element with some text content and append it to the body.
+
+// Task 4 > Create a new list item and add it to an existing unordered list.
+
+
+// -------------------------
+// Activity 3 : Removing Elements
+// -------------------------
+
+// Task 5 > Select an HTML element and remove it from the DOM.
+
+
+// -------------------------
+// Activity 4 : Event Handling
+// -------------------------
+
+// Task 6 > Add a click event listener to a button that changes the text of a paragraph.
+
+// Task 7 > Add a mouseover event listener to an element that changes its border color.
+
+
+// -------------------------
+// Activity 5 : Mini Project
+// -------------------------
+
+// Task 8 > Create a simple webpage with a button. When clicked, it toggles between light and dark mode.
