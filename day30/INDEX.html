@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Day 30 - DOM Manipulation & Event Handling</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin-top: 40px;
+      transition: background-color 0.3s, color 0.3s;
+    }
+    .highlight {
+      background-color: yellow;
+    }
+    #hoverBox {
+      border: 2px solid black;
+      padding: 20px;
+      width: 200px;
+      margin: 20px auto;
+      transition: border-color 0.3s;
+    }
+    .dark-mode {
+      background-color: #222;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <h1 id="main-heading">Welcome to DOM Manipulation</h1>
+  <p class="text">This is a paragraph element.</p>
+
+  <ul id="item-list">
+    <li>Item 1</li>
+    <li>Item 2</li>
+  </ul>
+
+  <div id="hoverBox">Hover over me</div>
+
+  <button id="changeTextBtn">Change Text</button>
+  <p id="message">Click the button to change this text.</p>
+
+  <button id="toggleMode">Toggle Dark Mode</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
